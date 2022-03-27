@@ -1,0 +1,1 @@
+Small react project made fully by Dawid.
